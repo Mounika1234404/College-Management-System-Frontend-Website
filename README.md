@@ -36,7 +36,7 @@ This project was developed as part of an **HTML and Web Development course proje
 
 3. Locate the main file:
 
-   `homepage.html`
+   `login.html`
 
 4. Double-click the file or open it using any web browser.
 
@@ -46,7 +46,7 @@ This project was developed as part of an **HTML and Web Development course proje
 
 1. Open the project folder in **Visual Studio Code**.
 2. Install the **Live Server** extension.
-3. Right-click `homepage.html`.
+3. Right-click `login.html`.
 4. Click **Open with Live Server**.
 
 The project will run on a local server such as:
